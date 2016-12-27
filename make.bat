@@ -1,0 +1,2 @@
+windres resource/icon.rc resource/icon.o
+c++ src/main.cpp src/keys.cpp src/utils.cpp src/LoadShaders.cpp src/audio.cpp src/camera.cpp src/console.cpp src/texture.cpp	src/textrender.cpp src/objmodel.cpp resource/icon.o -Iinclude -Llib lib/libglfw3dll.a lib/libtinyobjloader.a lib/libfreetype.a -lglew32 -lopengl32 openal32.dll libsndfile-1.dll -omain.exe -Wl,--subsystem,windows -static-libstdc++ -static-libgcc

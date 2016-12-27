@@ -1,0 +1,32 @@
+# Blender MTL File: 'longsword.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.690265 0.690265 0.690265
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Textures\untiled\dword.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.484248 0.484248 0.484248
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Textures\untiled\dword.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.191745 0.076348 0.015843
+Ks 0.070193 0.066650 0.013454
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Textures\untiled\dword.png
