@@ -2,6 +2,8 @@ This is a simple integration of OpenGL, OpenAL-Soft,
 and various utility libraries on Windows, targeted
 for MinGW 32-bit.
 
+[![Demonstration video](https://i.imgur.com/8whzNFi.jpg)](https://www.youtube.com/watch?v=OARbz_ZcvWQ "Demonstration video - Click to Watch!")
+
 Dependencies:
 glew
 glfw
